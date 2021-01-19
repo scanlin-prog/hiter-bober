@@ -1,0 +1,21 @@
+
+.recommendations {
+    width: 90%;
+    margin: 0 auto;
+    background-color: yellowgreen;
+}
+
+.recommendations__title {
+    margin: 10px auto 0 15px;
+}
+
+.recommendations__text {
+    height: 70px;
+}
+
+.text {
+    width: 90%;
+    margin: 0 auto;
+    height: 70px;
+    background-color: turquoise;
+}

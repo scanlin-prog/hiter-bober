@@ -1,0 +1,27 @@
+.table {
+    margin: 40px auto 10px;
+    width: 560px;
+    height: 200px;
+    text-align: center;
+}
+
+.icons {
+    margin: 0 auto 40px;
+    width: 560px;
+}
+
+.icons_messenger {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.icons_messenger:hover {
+    opacity: 0.8;
+}
+
+.icons__messenger_ok {
+    background-color: #ffab66;
+    border-radius: 15%;
+}
